@@ -1,2 +1,2 @@
-# files
-My college project files are uploaded here
+# Python project
+Social Media Sentimental Analysis
